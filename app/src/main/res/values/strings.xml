@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CaseMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello splash fragment</string>
+    <string name="internet_error_message">MovieDB\'ye erişilemiyor, lütfen internetinizin bağlı olduğundan emin olun.</string>
+    <string name="unexpected_error_message">Beklenmeyen bir hata meydana geldi.</string>
+    <string name="positive_button_ok">Tamam</string>
+</resources>
